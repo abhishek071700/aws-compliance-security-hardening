@@ -1,0 +1,20 @@
+# Secrets (never commit)
+*.pem
+*.ppk
+*.key
+*.crt
+*.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
