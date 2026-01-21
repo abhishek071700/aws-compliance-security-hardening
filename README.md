@@ -394,13 +394,6 @@ For questions, collaboration, or feedback:
 - Create an [Issue](https://github.com/abhishek071700/aws-compliance-security-hardening/issues)
 - Connect on [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-045241316/)
 
----
-
-## 🔖 Related Projects
-
-Check out my other AWS projects:
-- [Project 1 - Coming Soon]()
-- [Project 2 - Coming Soon]()
 
 ---
 
