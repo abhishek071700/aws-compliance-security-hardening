@@ -374,7 +374,7 @@ See [LICENSE](./LICENSE) for full terms.
 *AWS Solution Architect | Cloud Security Specialist*
 
 - GitHub: [@abhishek071700](https://github.com/abhishek071700)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishek-pandey/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishek-pandey-045241316/)
 - Portfolio: [View more projects](https://github.com/abhishek071700?tab=repositories)
 
 ---
@@ -392,7 +392,7 @@ See [LICENSE](./LICENSE) for full terms.
 
 For questions, collaboration, or feedback:
 - Create an [Issue](https://github.com/abhishek071700/aws-compliance-security-hardening/issues)
-- Connect on [LinkedIn](https://www.linkedin.com/in/abhishek-pandey/)
+- Connect on [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-045241316/)
 
 ---
 
